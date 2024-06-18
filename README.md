@@ -26,8 +26,7 @@ source MOPtrussMARL/bin/activate
 cd train/code
 python -m master_DDPG_truss2D_MO
 ```
-  3.2 Process result<br>
-  to process results into .csv files use ```train/code/cal_success.py``` <br>
+  3.2 Process result: to process results into .csv files use ```train/code/cal_success.py``` <br>
 
 4. Test the models<br>
   copy ```model/2000pickle_base``` to ```test/[subdirectory]```
