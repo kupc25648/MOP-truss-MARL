@@ -26,6 +26,7 @@ source MOPtrussMARL/bin/activate
 cd train/code
 python -m master_DDPG_truss2D_MO
 ```
+<br>
 3.2 Process result<br>
 to process results to .csv files use ```train/code/cal_success.py``` <br>
 
