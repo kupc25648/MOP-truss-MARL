@@ -19,17 +19,17 @@ source MOPtrussMARL/bin/activate
 cd environments
 pip install -r requirements.txt
 ```
-3. Train the models
-3.1 Run
+3. Train the models<br>
+3.1 Run<br>
 ```shell
 source MOPtrussMARL/bin/activate  
 cd train/code
 python -m master_DDPG_truss2D_MO
 ```
-3.2 Process result
-to process results to .csv files use ```train/code/cal_success.py``` 
+3.2 Process result<br>
+to process results to .csv files use ```train/code/cal_success.py``` <br>
 
-4. Test the models
+4. Test the models<br>
 4.1 Run
 copy ```model/2000pickle_base``` to ```test/[subdirectory]```
 run
