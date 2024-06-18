@@ -27,7 +27,8 @@ cd train/code
 python -m master_DDPG_truss2D_MO
 ```
 3.2 Process result
-use ```train/code/cal_success.py``` to process results to .csv files
+to process results to .csv files use ```train/code/cal_success.py``` 
+
 4. Test the models
 4.1 Run
 copy ```model/2000pickle_base``` to ```test/[subdirectory]```
