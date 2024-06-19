@@ -4,7 +4,7 @@
 The document will be updated soon.
 
 ## References
-- [To be added]
+- Kupwiwat, C. T., Hayashi, K., & Ohsaki, M. (2024). Multi-objective optimization of truss structure using multi-agent reinforcement learning and graph representation. Engineering Applications of Artificial Intelligence, 129, 107594. [https://doi.org/10.1016/j.engappai.2023.107594]
   
 ## Installation
 1. Clone the repository
